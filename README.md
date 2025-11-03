@@ -7,11 +7,11 @@ Le sujet du TP se trouve [ici](./TP/SUJET.md)
 
 Vous devez compléter cette partie pour qu'on puisse vous identifier.  
 
-Nom : XXXXX  
-Prénom : XXXXX  
-Groupe de TP : XXXXX (e.g. M1 ILSEN classique)  
+Nom : TALEB 
+Prénom : Hadjira 
+Groupe de TP : M1 IA Classique   
 
 ## Remarques particulières
-
+Je ne serai pas présente au tp le jeudi aussi car je vais travailler comme je vous l'ai mentionné aujourd'hui.
 Si vous avez des remarques particulières à faire sur le TP ou votre rendu vous
 pouvez les faire ici.
