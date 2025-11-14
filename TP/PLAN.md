@@ -70,8 +70,8 @@ tests/
 │   ├── test_api_triangulation.py
 │   └── test_pointset_errors.py
 ├── performance/
-│   ├── test_response_time.py
-│   └── test_load.py
+    ├── test_response_time.py
+    └── test_load.py
 
 
 
