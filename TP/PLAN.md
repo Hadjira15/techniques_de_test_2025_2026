@@ -61,20 +61,17 @@ Mesurer la couverture du projet
 #Organisatipon des tests
 
 tests/
-│
 ├── unit/
 │   ├── test_triangulation.py
 │   ├── test_geometry.py
 │   ├── test_encoder.py
 │   └── test_decoder.py
-│
 ├── integration/
 │   ├── test_api_triangulation.py
 │   └── test_pointset_errors.py
-│
 ├── performance/
-   ├── test_response_time.py
-   └── test_load.py
+│   ├── test_response_time.py
+│   └── test_load.py
 
 
 
