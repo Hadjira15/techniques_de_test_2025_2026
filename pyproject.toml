@@ -1,3 +1,11 @@
+[tool.pytest.ini_options]
+markers = [
+    "performance: mark test as a performance test (deselect with '-m \"not performance\"')",
+]
+
+[tool.ruff]
+line-length = 120  # Limite de ligne augmentée à 120 caractères
+
 [tool.ruff.lint]
 select = [
     "D",
@@ -8,3 +16,9 @@ select = [
     "SIM",
     "I",
 ]
+ignore = [
+    "D103",  # Pas de docstring obligatoire pour les fonctions (surtout tests)
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*.py" = ["D100"]  # Pas de docstring module pour tests
